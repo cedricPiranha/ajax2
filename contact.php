@@ -7,5 +7,5 @@ echo $nom.'-'.$prenom;
 
 header('Location:index.php?truc=ok')
 
-
+ddddddd
 ?>
